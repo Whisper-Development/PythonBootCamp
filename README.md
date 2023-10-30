@@ -8,7 +8,7 @@
 
 ___
 
-<p>Hello fellow coders! In this open repository I'll upload my projects while I tackle the Python Pro Bootcamp 2023 - 100 Days of Code course, by the App Brewery and Dr. Angela Wu!</p>
+<p>Hello fellow coders! In this open repository I'll upload my projects while I tackle the Python Pro Bootcamp 2023 - 100 Days of Code course, by the App Brewery and Dr. Angela Yu!</p>
 
 
 
