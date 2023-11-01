@@ -1,0 +1,1 @@
+<h1 align=center>Beginner - Day 12 - Scope and Number Guessing Game</h1>
