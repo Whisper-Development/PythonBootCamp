@@ -1,0 +1,1 @@
+<h1 align=center>Beginner - Day 10 - Functions with Outputs</h1>
