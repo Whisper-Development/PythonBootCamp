@@ -1,0 +1,1 @@
+<h1 align=center>Intermediate - Day 24 - Files, Directories and Paths</h1>
