@@ -1,0 +1,1 @@
+<h1 align=center>Intermediate - Day 21 - Build the Snake Game part 2: Inheritance and List Slicing.</h1>
