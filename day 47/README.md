@@ -1,0 +1,1 @@
+<h1 align=center>Intermediate - Day 47 - Automated Amazon Price Tracker</h1>
