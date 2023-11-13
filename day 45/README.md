@@ -1,0 +1,1 @@
+<h1 align=center>Intermediate - Day 45 - Web Scraping with Beautiful Soup</h1>
