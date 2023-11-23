@@ -1,0 +1,1 @@
+<h1 align=center>Advanced - Day 59 - Blog Capstone Project Part 2</h1>
